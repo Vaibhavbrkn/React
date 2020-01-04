@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "m",
+      "description": "m",
+      "id": 1
+    },
+    {
+      "title": "stream",
+      "description": "nimber2",
+      "id": 2
+    },
+    {
+      "title": "vaibhav",
+      "description": "agrawal",
+      "id": 11
+    },
+    {
+      "title": "i created this",
+      "description": "made by me",
+      "userId": "100587169671090007821",
+      "id": 12
+    }
+  ]
+}
